@@ -1,4 +1,5 @@
 class Integer
+    # mike
   ENGLISH = {
      0 => 'zero',
      1 => 'one',
